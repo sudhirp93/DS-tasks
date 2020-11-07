@@ -1,1 +1,1 @@
-# pred_score
+# prediction_score
